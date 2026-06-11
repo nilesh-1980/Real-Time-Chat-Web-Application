@@ -109,7 +109,6 @@ Add screenshots such as:
 
 ##  Future Enhancements
 
-* Video Calling Integration
 * Voice Messaging
 * End-to-End Encryption
 * Push Notifications
